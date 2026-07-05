@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>hydra</title>
+  <style>
+  body{
+    background: #A2A4B6;
+    font-family: fantasy;
+  }
+  .img-game{
+    width: 100px;
+    height 50px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .container {
+    display: flex;
+    justify-content: space-between; /* برای فاصله بین دو متن */
+    align-items: center; /* برای تراز کردن متن‌ها به صورت عمودی */
+}
+.hidden{
+  display: none;
+}
+h2 {
+    margin: 0; /* حذف فاصله اضافی */
+}
+.cpu{
+    width: 100px;
+    height 50px;
+    border-radius: 10px;
+  }
+  .button{
+    background: rgb(1,150,0);
+    border-bottom: 1px solid gray;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 4px;
+  }
+  .button-con{
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .container{
+    display: flex;
+  }
+  </style>
+</head>
+
+<body>
+  <h1>Choose your weapon</h1>
+  <img src="https://uploadkon.ir/uploads/a9da16_25IMG-20250416-135950.png" alt="" class="img-game" id="paper">
+  <img src="https://uploadkon.ir/uploads/ae5d16_25IMG-20250416-140011.png" alt="" class="img-game" id="Gh">
+  <img src="https://uploadkon.ir/uploads/16f816_25IMG-20250416-140031.png" alt="" class="img-game" id="rock">
+  <br>
+  <br>
+  <h1>cpu choose:</h1>
+    <img src="https://uploadkon.ir/uploads/a9da16_25IMG-20250416-135950.png" alt="" class="cpu hidden" id="paper">
+  <img src="https://uploadkon.ir/uploads/ae5d16_25IMG-20250416-140011.png" alt="" class="cpu hidden" id="Gh">
+  <img src="https://uploadkon.ir/uploads/16f816_25IMG-20250416-140031.png" alt="" class="cpu hidden" id="rock">
+  <br>
+  <br>
+    <div class="container">
+  <h2>cpu:</h2>
+<p id="cpu">0</p>
+    </div>
+  <br>
+  <div class="container">
+  <h2>User:</h2>
+<p id="user">0</p>
+  </div>
+<br>
+<div class="button-con">
+<button class="button">Refrsh</button>
+</div>
+</center>
+  <script src="rockPaperS.js"></script>
+</body>
+
+</html>
