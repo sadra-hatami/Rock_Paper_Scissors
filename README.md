@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🪨 Rock-Paper-Scissors
+# Rock-Paper-Scissors
+# 🪨📄✂️
 
 ### A Modern Browser-Based Rock–Paper–Scissors Game
 
