@@ -1,22 +1,115 @@
-# Rock-Paper-Scissors
+<div align="center">
 
-***
+# 🪨 Rock-Paper-Scissors
 
+### A Modern Browser-Based Rock–Paper–Scissors Game
 
-بازی سنگ-کاغذ-قیچی
+Enjoy the classic Rock–Paper–Scissors game with a clean interface, responsive design, real-time score tracking, and smooth gameplay directly in your web browser.
 
-Rock-Paper-Scissors
+<br>
 
-***
+# 👨‍💻 **Sadra Hatami**
 
-برنامه‌نویس: صدرا حاتمی
+### *Developer • Designer • Creator*
 
-🪨📄✂️
+<br>
 
-بازی سنگ-کاغذ-قیچی در سایت با طراحی جذاب و واکنش گرا 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Cross Platform](https://img.shields.io/badge/Cross--Platform-Desktop%20%7C%20Laptop%20%7C%20Tablet%20%7C%20Mobile-6f42c1?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge\&logo=github)
 
-***
+<br>
 
-🌐 وبسایت برنامه: https://sadra-hatami.github.io/Rock-Paper-Scissors/
+[🌐 Live Demo](https://sadra-hatami.github.io/Rock-Paper-Scissors/) •
+[📧 Contact](mailto:sadra.hatami.1732@gmail.com)
 
-📧 ایمیل سازنده برنامه: sadra.hatami.1732@gmail.com
+</div>
+
+---
+
+# 🎮 About
+
+**Rock–Paper–Scissors** is a browser-based implementation of the classic game, developed using **HTML, CSS, and JavaScript**.
+
+Challenge the computer in fast-paced rounds, track scores in real time, and enjoy a lightweight, responsive gaming experience that runs directly in your browser without installation.
+
+---
+
+# ✨ Features
+
+* 🪨 Classic Rock–Paper–Scissors gameplay
+* 🤖 Computer opponent with random choices
+* 🏆 Real-time score tracking
+* 🔄 Restart game functionality
+* 🎨 Clean and intuitive user interface
+* 📱 Responsive design
+* 💻 Cross-platform support
+* ⚡ Lightweight and fast
+* 🌐 Play instantly in any modern web browser
+
+---
+
+# 🎯 Gameplay
+
+Choose **Rock**, **Paper**, or **Scissors** and compete against the computer.
+
+Each round is decided instantly, scores are updated automatically, and you can restart the match at any time.
+
+---
+
+# 🛠️ Technologies
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+---
+
+# 🌐 Live Demo
+
+https://sadra-hatami.github.io/Rock-Paper-Scissors/
+
+---
+
+# 📬 Contact
+
+**Developer**
+
+**Sadra Hatami**
+
+📧 [sadra.hatami.1732@gmail.com](mailto:sadra.hatami.1732@gmail.com)
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# © Copyright
+
+© 2026 **Sadra Hatami**
+
+All rights reserved.
+
+The source code, interface design, gameplay implementation, and project assets are protected by copyright.
+
+---
+
+# ⭐ Support
+
+If you enjoyed this project, please consider giving it a ⭐ on GitHub.
+
+Your support encourages future improvements and new game projects.
+
+---
+
+<div align="center">
+
+## ❤️ Designed & Developed by **Sadra Hatami**
+
+</div>
