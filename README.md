@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors
+# Rock-Paper-Scissors
 
 ***
 
@@ -17,6 +17,6 @@ Rock-Paper-Scissors
 
 ***
 
-🌐 وبسایت برنامه: https://sadra-hatami.github.io/Rock_Paper_Scissors/
+🌐 وبسایت برنامه: https://sadra-hatami.github.io/Rock-Paper-Scissors/
 
 📧 ایمیل سازنده برنامه: sadra.hatami.1732@gmail.com
